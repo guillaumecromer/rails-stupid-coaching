@@ -1,0 +1,46 @@
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+  text-align: center;
+  margin: auto;
+}
+
+.answer {
+  color: gray;
+}
+
+div {
+  border: 1px solid;
+  border-radius: 4px;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+}
+
+.new_question {
+  text-decoration: none;
+  color: black;
+  padding: 8px;
+  border-color: white;
+  border-radius: 4px;
+  border: 1px solid;
+  width: 300px;
+  margin: auto;
+  background-color: #c5c3c6;
+  margin-top: 20px;
+  text-align: center;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8c1a6a;
+}
+
